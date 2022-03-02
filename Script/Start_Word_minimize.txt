@@ -1,0 +1,4 @@
+start C:\SAPZSIDACtmp\TAM4042-5AT10-0FA0_A_20201221_075144.docx
+
+start /Min /Wait C:\SAPZSIDACtmp\TAM4042-5AT10-0FA0_A_20201221_075144.docx - spustí v minimalize a èeká až skonèí proces
+start /Min C:\SAPZSIDACtmp\TAM4042-5AT10-0FA0_A_20201221_075144.docx   - jenom spustí v minimalize

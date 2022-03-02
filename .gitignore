@@ -1,0 +1,41 @@
+## Ignorování adresáøù a podadresáøù ########
+**/Archiv/*
+Draft/*
+Obrazky/*
+OfficeToPDF/*
+Result/*
+Temp/*
+**/Temp/*
+XML/*
+
+
+## Ignorování souborù s urèitou pøíponou ########
+*.png
+*.jpg
+*.tif
+*.pdf
+*.mdb
+*.xlsx
+*.xlsm
+~$*.docx
+~$*.docm
+~$*.dotx
+
+## Ignorování Project files ######
+.platformio
+.pio
+Sprache*
+Html_address.txt
+Obr*zky*.txt
+
+## Výjimky z ignorování souborù ######
+!Sprache_Datenblatt.xlsm
+!AutoGener_test_script.xlsm
+
+## Ignorování všeho krom urèitého souboru ######
+# Ignorování všeho ve složce, kromì jediného souboru je trochu nároènìjší. Je potøeba 
+# ignorovat vše, kromì samotné složky a až poté kromì samotného souboru.
+# V pøípadì vìtšího zanoøení je potøeba vypsat všechny složky s ! na zaèátku
+cover/*
+!cover/
+!cover/placeholder.jpg

@@ -1,0 +1,10 @@
+Na co nezapomenout při kopírování script souboru na síť:
+0) vypnout TestingRun
+1) nastavení nebo zakomentování cest k souborům
+2) nastavit správnou cestu k XML souborům
+3) odkomentování dočasně zakomentovaných částí pro testování
+4) zakomentování ukládání statistiky časových údajů
+5) vymazání pomocných proměnných - Miro, ...
+6) nastavit vlastnosti souboru na jen pro čtení
+7) ??? nastavit heslo ???
+

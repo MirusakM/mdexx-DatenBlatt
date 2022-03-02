@@ -1,0 +1,12 @@
+[VBA_FUNC(InsertImage;H:\2020\Bartender_labels;TAM9595-1MR00-0F_TYP_TR17_MURR_20200915_0947171;0.5;(,145.5%))]
+
+
+[VBA_FUNC(Evaluate;4087.95/(Num(1025,7)*2.1);2)]
+[VBA_FUNC(Evaluate;4087.95/Num(1025,7*2.1;2)]
+
+
+[VBA_FUNC(Iif;left(“PRI1”,3)=”PRI”;True;False)]
+
+
+[VBA_FUNC(Font;mdexx_sidac;22;ncGDV;SortSymbols(B))]
+
